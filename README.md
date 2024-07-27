@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jamilu Ibrahim Richifa
 ==============================================================================================================================================
 
-Data Analyst | Data Engineer | Product Designer | Java Developer | Technical Writer | Cloud Engineer
+Frontend Engineer| User Researcher | Product Designer | Java Developer | Technical Writer | Cloud Engineer
 ----------------------------------------------------------------------------------------------------
 
 Computer science students with a keen interest in technology, especially design and coding, have skills and experience in data analysis, AWS, Java, Python, product design, and technical writing.
