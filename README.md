@@ -1,10 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jamilu Ibrahim Richifa
 ==============================================================================================================================================
 
-Frontend Engineer| User Researcher | Product Designer | Java Developer | Technical Writer | Cloud Engineer
+Security Analyst| Pentesting | DevSecOps | Python Developer | Technical Writer | Computer Science 
 ----------------------------------------------------------------------------------------------------
 
-Computer science students with a keen interest in technology, especially design and coding, have skills and experience in data analysis, AWS, Java, Python, product design, and technical writing.
+### Hi there 👋
+
+I'm a cybersecurity enthusiast building a strong foundation in **Security Operations (SOC Analysis)**, with a keen eye on transitioning into **Penetration Testing**.
+
+Currently diving deep into:
+- **SIEM tools** (Splunk, Elastic) for threat detection and incident response.
+- **Network & Endpoint Security** for comprehensive defense.
+- **Python scripting** for automation and analysis.
+
+My goal is to protect digital assets by understanding both defensive strategies and offensive tactics. I believe a strong "blue team" background is key to becoming an exceptional "red teamer."
+
+Feel free to explore my repositories for hands-on projects and learning exercises!
 
 * 🌍  I'm based in Kaduna State, Nigeria
 * ✉️  You can contact me at [jamilurichifso00@gmail.com](mailto:jamilurichifso00@gmail.com)
